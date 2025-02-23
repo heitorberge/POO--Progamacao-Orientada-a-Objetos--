@@ -1,5 +1,4 @@
 # POO (Progamacao Orientada a Objetos) Em Java
-[![](https://markdown-videos-api.jorgenkh.no/youtube/KlIL63MeyMY?si=pTqiyN9MQugI1TD3)](https://youtu.be/https://youtu.be/KlIL63MeyMY?si=pTqiyN9MQugI1TD3})
 ### Pré-Requisitos
 #### Curso Youtube
 Curso De Algoritimo : https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV  

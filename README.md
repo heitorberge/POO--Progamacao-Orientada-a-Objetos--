@@ -15,4 +15,13 @@ Link: https://www.oracle.com/java/technologies/downloads
 ### NetBeans
 Link: https://netbeans.apache.org/front/main/download/  
 Obs: Baixar jdk na versão instalador  
-![image](https://github.com/user-attachments/assets/cd259ab5-6f37-47ce-ad94-49cab1a0f6c5)
+## Sobre o Ultra Emoji Kombat
+![luta-emoji_resized (1)](https://github.com/user-attachments/assets/023f8550-5ba8-4365-971a-581b4d3ce1cb)  
+ O Ultra Emoji Kombat foi Feito em Mais de Uma Aula por Isso  
+ Para ver a Versão Final do Ultra Emoji kombat Vá para A Aula 08  
+### Ultra Emoji Kombat 01
+Essa versão foi Feito pelo o Exercício da aula #07a
+Ou seja eu que fiz
+### Ultra Emoji Kombat 02 
+Essa versão foi Feito pelo o Exercício da aula #07b
+Ou seja eu que fiz com a ajuda do Guanabara.

@@ -26,3 +26,6 @@ Ou seja eu que fiz
 ### Ultra Emoji Kombat 02 
 Essa versão foi Feito pelo o Exercício da aula #07b  
 Ou seja eu que fiz com a ajuda do Guanabara.
+### Ultra Emoji Kombat 03
+Essa versão foi Feito pelo o Exercício da aula #08a  
+Ou seja eu que fiz

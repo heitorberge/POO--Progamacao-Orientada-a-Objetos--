@@ -11,10 +11,10 @@ Site : https://www.cursoemvideo.com/curso/java-poo/
 Youtube : https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY
 ## Aplicativos para ser Instalados
 ### Jdk
-Link: https://www.oracle.com/java/technologies/downloads  
+Link: https://www.oracle.com/java/technologies/downloads   
+Obs: Baixar jdk na versão instalador 
 ### NetBeans
-Link: https://netbeans.apache.org/front/main/download/  
-Obs: Baixar jdk na versão instalador  
+Link: https://netbeans.apache.org/front/main/download/   
 ## Sobre o Ultra Emoji Kombat
 | ![luta-emoji_resized (1)](https://github.com/user-attachments/assets/6723f9ae-0cfa-46ea-9b53-5dd7716b7a66) ||
 |---|---|

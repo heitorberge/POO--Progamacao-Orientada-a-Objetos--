@@ -16,12 +16,12 @@ Obs: Baixar jdk na versão instalador
 ### NetBeans
 Link: https://netbeans.apache.org/front/main/download/   
 ### Tutorial como baixar
-[Assista ao vídeo no YouTube](https://youtu.be/Ucyx_QPfDng?si=5jmlzd8ttoK0l4jT)
-Nesse vídeo da aula #1b do Guanabara de Poo O Guanabara  
-Ensina a baxar o jdk e o Netbeans.Caso deseje Outro exemplo de vídeo  
-que ensine A Baixar o Netbeans e o Jdk veja esses exemplos:
-[Pesquisa no Youtube](https://www.youtube.com/results?search_query=como+baixar+java+jdk+e+netbeans)
-[Curso de Java do Curso em Vídeo](https://youtu.be/yWU5bm_pZzY?si=MnPTY3o0cYTXU_ZW)
+[Assista ao vídeo no YouTube](https://youtu.be/Ucyx_QPfDng?si=5jmlzd8ttoK0l4jT)  
+Nesse vídeo da aula #1b do Guanabara de Poo O Guanabara    
+Ensina a baxar o jdk e o Netbeans.Caso deseje Outro exemplo de vídeo    
+que ensine A Baixar o Netbeans e o Jdk veja esses exemplos:  
+[Pesquisa no Youtube](https://www.youtube.com/results?search_query=como+baixar+java+jdk+e+netbeans)  
+[Curso de Java do Curso em Vídeo](https://youtu.be/yWU5bm_pZzY?si=MnPTY3o0cYTXU_ZW)  
 ## Sobre o Ultra Emoji Kombat
 | ![luta-emoji_resized (1)](https://github.com/user-attachments/assets/6723f9ae-0cfa-46ea-9b53-5dd7716b7a66) ||
 |---|---|

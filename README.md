@@ -15,6 +15,8 @@ Link: https://www.oracle.com/java/technologies/downloads
 Obs: Baixar jdk na versão instalador 
 ### NetBeans
 Link: https://netbeans.apache.org/front/main/download/   
+### Tutorial como baixar
+[Assista ao vídeo no YouTube](https://youtu.be/Ucyx_QPfDng?si=5jmlzd8ttoK0l4jT)
 ## Sobre o Ultra Emoji Kombat
 | ![luta-emoji_resized (1)](https://github.com/user-attachments/assets/6723f9ae-0cfa-46ea-9b53-5dd7716b7a66) ||
 |---|---|

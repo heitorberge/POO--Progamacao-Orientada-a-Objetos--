@@ -36,9 +36,3 @@ Ou seja eu que fiz com a ajuda do Guanabara.
 ### Ultra Emoji Kombat 03
 Essa versão foi Feito pelo o Exercício da aula #08a  
 Ou seja eu que fiz
-## Projeto Animal
-![Gemini_Generated_Image_5y1i9c5y1i9c5y1i_resized](https://github.com/user-attachments/assets/92644201-6220-4dfe-b927-be4b0b117339)
-###### O Projeto Animal Foi feito em 2 Aulas, para Ver a Versão final Faça os seguintes Passos:
-- Entre na pasta Principal.
-- Vá para a Aula 13.
-- Pronto, Você está na Ultima Versão!

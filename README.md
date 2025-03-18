@@ -36,3 +36,9 @@ Ou seja eu que fiz com a ajuda do Guanabara.
 ### Ultra Emoji Kombat 03
 Essa versão foi Feito pelo o Exercício da aula #08a  
 Ou seja eu que fiz
+## Projeto Youtube
+![youtube-logo-youtube-icon-transparent-free-png-887183781](https://github.com/user-attachments/assets/8f9aa4c6-4aad-4757-8356-c12d1b92b2c3)  
+`O Projeto Youtube Foi feito em Mais de Uma Aula Por Isso Para ver a Versão Final siga os Seguintes passos:`
+- Entre no Arquivo principal.
+- Vá para Aula 15.
+- Pronto você já está vendo a versão Final!
